@@ -6,6 +6,7 @@ body{
   font-family: 'Oxigen', sans-serif;    
 }
 .header-nav {
+  
   background-color: #fcfc0c;
   border-radius: 0;
   border: 0;
@@ -14,7 +15,7 @@ body{
   
 
 #logo-img{
-  background:url('../image/2022-08-18\ \(2\).png') no-repeat;  
+  background:url('') no-repeat;  
   width: 100px;
   height: 100px;
   margin-left: 10px;  
@@ -34,7 +35,7 @@ body{
   line-height: 75; 
 }
 
-.navbar-brand a:hover, .navbar-brand a:focus{
+.navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
 
