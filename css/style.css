@@ -18,3 +18,9 @@ body{
     border-radius: 0;
     border: 0;
 }
+
+#logo-img{
+    background:url('../image/pexels-vlad-bagacian-1028442.jpg') no-repeat;
+    width: 150pw;
+    height: 10px 15px 10px 0;
+}
