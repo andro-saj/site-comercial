@@ -15,9 +15,11 @@ body{
   background-color: #fcfc0c;
   border-radius: 0;
   border: 0;
-  
 }
-
+.container>div{
+    float: left;
+   
+}
 #logo-img{
   background:url('../image/Ribeiro-Tec_%231_brand_usage_%237_created_by_logaster%20(1).png') no-repeat;
   height: 100px;
@@ -25,4 +27,13 @@ body{
   margin-left: 10px;
   clear: right;
   
+}
+
+.navbar-header{
+    
+}
+
+.navbar-brand{
+    
+
 }
