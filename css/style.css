@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+  }
+
+body{
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxigen', sans-serif;    
+}
+#header-nav {
+  background-color: #fcfc0c;
+  border-radius: 0;
+  border: 0;
+  
+}
+
+#logo-img{
+  background:url('../image/Ribeiro-Tec_%231_brand_usage_%237_created_by_logaster%20(1).png') no-repeat;
+  height: 100px;
+  width: 100px;  
+  margin-left: 10px;
+  clear: right;
+  
+}
